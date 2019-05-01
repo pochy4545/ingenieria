@@ -25,7 +25,6 @@ for ( int i = 0; i < n; i++)
     largo++;
 }
 cadena[largo]='\0';
-
 printf("%s",cadena);
 
 
